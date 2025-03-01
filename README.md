@@ -1,4 +1,4 @@
-Movie Recommender Project
+#Movie Recommender Project
 
 Objective: Create a Python script that recommends movies based on user preferences using booleans, logical operators, and conditional statements.
 
